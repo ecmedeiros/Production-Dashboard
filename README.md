@@ -4,6 +4,8 @@
 
 Este é um painel de monitoramento de produção em tempo real que fornece visualização de dados e acompanhamento em tempo real de métricas de produção. A aplicação é construída usando Node.js, Express.js e Bootstrap para a interface do usuário responsiva. Os dados são obtidos de um banco de dados PostgreSQL e atualizados automaticamente a cada 15 minutos para fornecer informações em tempo real.
 
+![Painel de Monitoramento](public/img/painel.gif)
+
 ## Instalação
 
 Siga as etapas abaixo para instalar e executar o projeto em sua máquina local:
