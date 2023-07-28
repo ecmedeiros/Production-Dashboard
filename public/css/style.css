@@ -1,0 +1,63 @@
+.container-fluid {
+	font-size: 12px;
+	background: #202C33;
+	color:#fff;
+}
+
+h1{
+	font-size:10vh;
+	margin-left: 30vh;
+	margin-top: 3vh;
+}
+
+.col{
+	border: .5vh solid black;
+	height: 20vh;
+}
+
+/* logo/top box */
+.col-9 {
+	height: 20vh;
+	border: .5vh solid black;
+}
+
+/* machines box */
+.col-3 {
+	text-align: center;
+	height: 40vh;
+	border: .5vh solid black;
+}
+
+/* turnos box */
+.machine-block p {
+	margin-top: 5vh;	
+	font-size: 8vh;
+}
+
+h2 {
+	padding-top: 2vh;
+	font-size: 6vh
+}
+
+.turno p{
+	margin: 0;
+	font-size: 4vh;
+}
+
+li {
+	font-size: 4vh;
+	text-align: center;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+img {
+	/* width: 45vh; */
+	height: 19.5vh;
+	position: absolute;
+	top: .5vh;
+	right: .5vh;
+	margin: 0;
+	
+}
