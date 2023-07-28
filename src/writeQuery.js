@@ -39,7 +39,7 @@ async function runQuery(extractedYear, extractedMonth, extractedDay) {
     connect();
 
     // Executa a query
-    const query = 'INSIRA SUA QUERY AQUI';
+    const query = 'SUA QUERY AQUI';
 
     const result = await client.query(query); // Executa a consulta
 
